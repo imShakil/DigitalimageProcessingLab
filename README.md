@@ -1,4 +1,4 @@
-# DigitalimageProcessingLab
+# Digital Image Processing Lab (practice)
 Digital image processing in python with computer vision (opencv).
 
 ### Lists
@@ -9,4 +9,6 @@ Digital image processing in python with computer vision (opencv).
 - Edge Detection
 - Corner Detection
 - Image Resizing
+- capture image
+- capture video
 
